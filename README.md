@@ -1,1 +1,4 @@
-# Short
+# Link Shortener
+
+cd short
+
